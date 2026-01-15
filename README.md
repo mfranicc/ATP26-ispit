@@ -91,3 +91,7 @@ User research is the systematic study of target users and their requirements in 
 
 ## Citat
 > "Ovo je neki citat, nemam vremena tražit." – Maša Franić
+
+## Dokumentacija projekta
+* [Licenca projekta (MIT)](LICENSE.md)
+* [Povijest promjena (Changelog)](CHANGELOG.md)
