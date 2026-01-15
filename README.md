@@ -95,3 +95,13 @@ User research is the systematic study of target users and their requirements in 
 ## Dokumentacija projekta
 * [Licenca projekta (MIT)](LICENSE.md)
 * [Povijest promjena (Changelog)](CHANGELOG.md)
+
+## Video
+![UX Design Video](https://youtu.be/ODpB9-MCa5s?si=lXQvW1vKJKEc2l2_)
+
+## Emoji 
+🌹 💀 💻
+
+> [!NOTE]
+> Ovo je neka napomena
+
